@@ -1,0 +1,5 @@
+/server/
+start_7290_default.bat
+
+txData/*
+!txData/CFXDefaultFiveM_E8D946.base/
