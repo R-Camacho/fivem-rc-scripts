@@ -1,7 +1,9 @@
 /server/
 start_7290_default.bat
 
-txData/CFXDefaultFiveM_E8D946.base/.replxx_history
-txData/CFXDefaultFiveM_E8D946.base/server.cfg.bkp
 txData/default
+txData/server-data/.replxx_history
+txData/server-data/server.cfg.bkp
+txData/server-data/cache/
+txData/server-data/db/
 txData/admins.json
