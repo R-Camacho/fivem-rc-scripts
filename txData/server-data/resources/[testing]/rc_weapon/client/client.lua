@@ -22,6 +22,4 @@ RegisterCommand('weapon', function(source, args)
         false,
         true
     )
-    --//TODO remove this and test changes
-    SetModelAsNoLongerNeeded(weaponName)
 end)
