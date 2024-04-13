@@ -3,7 +3,7 @@ game 'gta5'
 lua54 'yes'
 
 author 'R-Camacho'
-description 'Command that gives player a certain weapon'
+description 'Command that gives the player a certain weapon'
 
 client_scripts{
     'client/client.lua',
