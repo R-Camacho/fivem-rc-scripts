@@ -1,3 +1,3 @@
-#FiveM resources that I built out of curiosity
+# FiveM resources that I built out of curiosity using Lua
 
-My scripts are inside the [\[rc\] folder](txData/server-data/resources/[rc])
+All my scripts are inside the [\[rc\] folder](txData/server-data/resources/[rc])
